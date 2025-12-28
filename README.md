@@ -7,4 +7,4 @@ Starting Items: Sunflower, Peashooter, 1-1 to 1-10, and Lawnmowers
 
 Checks: Completion of Adventure Levels, Minigames, and Puzzles
 
-Items: All Plants, Lawnmower Upgrades, and World Unlocks
+Items: All Plants, Lawnmower Upgrades, World Unlocks, Mini-games World Unlock, and Puzzles World Unlock
