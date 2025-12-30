@@ -1,7 +1,7 @@
 # PvZ-Replanted-Manual-Archipelago
 My take on an implementation of PvZ Replanted Manual Archipelago
 
-Inside this repo, you will find an Archipelago custom world and a save file to use with said Archipelago.
+Inside this repo, you will find an Archipelago custom world, a YAML file for generation and a save file to use with said Archipelago.
 
 Starting Items: Sunflower, Peashooter, 1-1 to 1-10, and Lawnmowers
 
