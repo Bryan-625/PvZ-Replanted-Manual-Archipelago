@@ -1,0 +1,8 @@
+name: Bryan
+description: Default template created by the Manual Builder tool
+
+game: Manual_PlantsvsZombiesReplanted_Bryan
+
+Manual_PlantsvsZombiesReplanted_Bryan:
+    progression_balancing: 50
+    accessibility: items
